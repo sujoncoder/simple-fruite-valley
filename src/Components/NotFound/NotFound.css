@@ -1,0 +1,10 @@
+.notfound img{
+    width: 100%;
+    height: 500px;
+}
+.back{
+    margin-left: 46%;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}

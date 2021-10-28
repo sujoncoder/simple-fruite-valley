@@ -1,0 +1,9 @@
+.footer{
+    background-color: lightgrey;;
+}
+.footer p{
+    text-align: center;
+    align-items: center;
+    padding: 50px 50px;
+    margin-top: 50px;
+}

@@ -1,0 +1,26 @@
+.header-container{
+    background-color: lightgray;
+   top: 0;
+   position: sticky;
+}
+.fv{
+    font-size: 25px;
+    font-weight: 800;
+    margin-right: 60px;
+}
+img{
+    width: 40px;
+    padding-right: 10px;
+}
+.link{
+    color: rgb(61, 59, 59);
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 25px;
+}
+.link:hover{
+    color: rgb(60, 177, 60);
+    transition: 0.5s;
+}

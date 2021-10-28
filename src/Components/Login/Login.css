@@ -1,0 +1,31 @@
+.login{
+    width: 400px;
+    margin-left: 400px;
+    background-color: papayawhip;
+    margin-top: 80px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    box-shadow:10px 10px 30px lightgrey;
+
+}
+.login h2{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.login input{
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-bottom: 15px;
+}
+.login button{
+    border-radius: 5px;
+    padding: 3px 20px;
+}
+.login button:hover{
+    background-color: rgb(185, 181, 181);
+    transition: 0.5s;
+}

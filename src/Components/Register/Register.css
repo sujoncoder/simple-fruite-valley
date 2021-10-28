@@ -1,0 +1,30 @@
+.register{
+    background-color: rgb(245, 190, 88);
+    width: 500px;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 360px;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 20px;
+    box-shadow:10px 10px 30px lightgrey;
+}
+.register h2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.register input{
+    margin-bottom: 10px;
+    padding: 5px 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.register button{
+    padding: 3px 20px;
+    border-radius: 5px;
+}
+.register button:hover{
+    background-color: rgb(185, 181, 181);
+    transition: 0.5s;
+}
